@@ -45,5 +45,6 @@ public class ThreadedStudentManger {
         }
 
         System.out.println("✅ All students inserted!");
+        System.out.println("<UNK> All students inserted!");
     }
 }
